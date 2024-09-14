@@ -19,7 +19,7 @@
     "dotenv": "^16.0.3",
     "lodash": "^4.17.21",
     "quasar": "^2.0.0",
-    "ua-parser-js": "^1.0.32",
+    "ua-parser-js": "^1.0.33",
     "vue": "^3.0.0",
     "vue-i18n": "^9.2.2",
     "vue-router": "^4.0.0"
